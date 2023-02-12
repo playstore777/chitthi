@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008168719177",
+    "project_id": "chitty-8f7d5",
+    "storage_bucket": "chitty-8f7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008168719177:android:1be40f972ef813d9bd4098",
+        "android_client_info": {
+          "package_name": "com.example.chitty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008168719177-568556gio0rm76u6akmu8dq49fq8v5ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxAXPNM-Ph3tUYou0RVgfQeRpnhMALuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008168719177-568556gio0rm76u6akmu8dq49fq8v5ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
